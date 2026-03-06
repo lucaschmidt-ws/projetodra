@@ -38,7 +38,7 @@
             </div>
         </div>
 
-        <div class="personagem">
+<div class="personagem">
             <picture>
                 <source srcset="./src/imagens/bg-hexblade.png" media="(min-width: 768px)" />
                 <img class="imagem" src="./src/imagens/bg-hexblade-mobile.png" alt="Personagem HexBlade" />
@@ -59,7 +59,7 @@
             </div>
         </div>
 
-        <div class="personagem">
+ <div class="personagem">
             <picture>
                 <source srcset="./src/imagens/bg-codebreaker.png" media="(min-width: 768px)" />
                 <img class="imagem" src="./src/imagens/bg-codebreaker-mobile.png" alt="Personagem Codebreaker" />
@@ -70,7 +70,7 @@
             </div>
         </div>
 
-    </main>
+</main>
     <ul class="botoes">
         <li>
             <button class="botao cyberstorm selecionado">
